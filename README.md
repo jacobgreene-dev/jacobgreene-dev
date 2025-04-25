@@ -1,6 +1,9 @@
-# Welcome to My Portfolio – Jacob Greene
 
-Thank you for visiting my GitHub. This portfolio represents my journey through software development, showcasing the projects I've worked on, the skills I've developed, and my passion for building thoughtful, well-structured applications.
+<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css"/>
+
+# Hi I am – Jacob Greene
+
+Thank you for dropping by my GitHub. This portfolio represents my journey through software development, showcasing the projects I've worked on, the skills I've developed, and my passion for building thoughtful, well-structured applications.
 
 ## About Me
 
@@ -10,8 +13,32 @@ Throughout my academic career and personal projects, I’ve sought out challenge
 
 ## Technical Skills
 
-- **Languages**: TypeScript <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">, Python <a href="https://www.python.org/" target="_blank" rel="noreferrer">, C++ <a href="https://www.python.org/" target="_blank" rel="noreferrer">, C <a href="https://www.python.org/" target="_blank" rel="noreferrer">, Java <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-- **Frameworks & Tools**: Next.js, React, Tailwind CSS, Firebase, Git, GitHub, Postman, Framer Motion
+- **Languages**: 
+TypeScript <i class="devicon-typescript-plain colored"></i>, 
+Python <i class="devicon-python-plain colored"></i>,
+C <i class="devicon-c-plain colored"></i>, 
+C++ <i class="devicon-cplusplus-plain colored"></i>, 
+Java  <i class="devicon-java-plain-wordmark colored"></i>, 
+PHP <i class="devicon-php-plain colored"></i>
+- **Frameworks**: 
+Next.js <i class="devicon-nextjs-original-wordmark"></i>, 
+React.js  <i class="devicon-react-original"></i>, 
+Spring Boot <i class="devicon-spring-original colored"></i>, 
+Laravel <i class="devicon-laravel-original colored"></i>, 
+Tailwind <i class="devicon-tailwindcss-original colored"></i>, 
+Firebase <i class="devicon-firebase-plain colored"></i>,  
+Framer Motion <i class="devicon-framermotion-original"></i>
+- **Database**: 
+PostgreSQL <i class="devicon-postgresql-plain colored"></i>, 
+MySQL <i class="devicon-mysql-original "></i>, 
+SQLite <i class="devicon-sqlite-plain colored"></i>
+- **Tools**: 
+VS 2022  <i class="devicon-visualstudio-plain colored"></i>, 
+VS Code <i class="devicon-vscode-plain colored"></i>, 
+JetBrains <i class="devicon-jetbrains-plain colored"></i>, 
+Postman <i class="devicon-postman-plain colored"></i>,
+Git <i class="devicon-git-plain colored"></i>,
+GitHub <i class="devicon-github-original"></i>
 - **Specialties**: Full-stack development, REST API integration, data visualization, UI/UX design, and real-time data workflows
 
 ## Collaboration and Work Ethic
@@ -34,19 +61,14 @@ You’ll find a variety of projects here—from full-stack web applications and 
 
 For a detailed summary of my experience and achievements:
 
-**[View My Resume](https://your-resume-link.com)**  
-*(Please update this link with your hosted resume or PDF)*
+**[View My Resume](https://drive.google.com/file/d/1FRt-0pkPMbJlGzH4IQ617MCLQNBNAEaM/view?usp=sharing)**  
 
 ## Contact
 
 If you're interested in connecting, collaborating, or discussing potential roles, feel free to reach out:
 
-- **Email**: jacobgreene.dev@gmail.com  
+- **Email**: jepgpersonal@gmail.com  
 - **LinkedIn**: [linkedin.com/in/jacobgreene-dev](https://linkedin.com/in/jacobgreene-dev)
 
-## GitHub Overview
-
-![Jacob's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jacobgreene-dev&show_icons=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jacobgreene-dev&layout=compact&theme=default)
-
 Thank you for taking the time to explore my work.
+
